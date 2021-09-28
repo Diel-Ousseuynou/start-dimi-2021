@@ -1,2 +1,7 @@
 # start-dimi-2021
-projet de démarrage
+## pre-requis
+- [git](hhtps://nodejs.org)
+- [node.js](https://nodejs.org)
+- compte github
+- google chrome canary
+- visual atudio code
