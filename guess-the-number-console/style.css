@@ -1,0 +1,23 @@
+body, body * {
+    margin : 0;
+    box-sizing: border-box;
+    position: relative;
+}
+
+body {
+    background-color: honeydew;
+    min-height: 100vh;
+
+}
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-size: 100px;
+}
+p span {
+    font-size: ;
+
+}
