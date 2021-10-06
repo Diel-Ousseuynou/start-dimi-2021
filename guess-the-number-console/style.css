@@ -37,9 +37,10 @@ p span {
 
 @keyframes bounce-anim {
   from {
-    transform: rotate(0.5turn);
+    transform: translateX(0%);
   }
 
   to {
-    transform: rotateX(10deg);  }
+    transform:  translateX(100%); 
+  }
 }
