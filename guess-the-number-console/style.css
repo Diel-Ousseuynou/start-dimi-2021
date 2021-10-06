@@ -31,3 +31,15 @@ p span {
   border-radius: 16px;
   padding: 16px;
 }
+.bounce {
+  animation: bounce-anim 1s linear;
+}
+
+@keyframes bounce-anim {
+  from {
+    transform: rotate(0.5turn);
+  }
+
+  to {
+    transform: rotateX(10deg);  }
+}
